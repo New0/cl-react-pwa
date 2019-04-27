@@ -9,7 +9,7 @@ class Notifier extends Component {
         });
         const message = this.props.offline ?
             `
-            CloudyCam is offline! Your images will be saved now and then uploaded to
+            NewVision Optical Cam is offline! Your images will be saved now and then uploaded to
             your Cloudinary Media Library once your internet connection is back up.
         ` :
             `
